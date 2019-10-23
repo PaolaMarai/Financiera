@@ -1,0 +1,15 @@
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\bin\Debug\FOCUS.exe.config
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\bin\Debug\FOCUS.exe
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\bin\Debug\FOCUS.pdb
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\FOCUS.csprojAssemblyReference.cache
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\MainWindow.g.cs
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\App.g.cs
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\FOCUS_MarkupCompile.cache
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\FOCUS_MarkupCompile.lref
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\MainWindow.baml
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\FOCUS.g.resources
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\FOCUS.Properties.Resources.resources
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\FOCUS.csproj.GenerateResource.cache
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\FOCUS.csproj.CoreCompileInputs.cache
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\FOCUS.exe
+C:\Users\marai\source\repos\Financiera\FOCUS\FOCUS\obj\Debug\FOCUS.pdb
